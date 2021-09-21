@@ -1,0 +1,30 @@
+.UserInputForm {
+    padding: 0.5em;
+    background-color: cornflowerblue;
+    width: 60vw;
+}
+
+.UserInputForm input {
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 2em;
+    width: 80%;
+    margin: auto;
+    margin-top: 1em;
+}
+
+.UserInputForm p {
+    display: inline;
+}
+
+.UserInputForm button {
+    margin: 2em;
+    height: 3em;
+    width: 10em;
+    color: white;
+    background-color: black;
+    border: 1px white solid;
+    border-radius: 8px;
+}
